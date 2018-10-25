@@ -11,12 +11,12 @@ print napis
 
 slownik = {}
 
-splitted = napis.split('\n')
-splitted = filter(None, splitted)
+split = napis.split('\n')
+split = filter(None, split)
 
-for x in splitted:
-    klucz = x.split(': ')[0]
-    wartosc = x.split(': ')[1]
+for x in split:
+    klucz = x.split(':')[0].strip()
+    wartosc = x.split(':')[1].strip()
     slownik[klucz] = wartosc
 
 print slownik
