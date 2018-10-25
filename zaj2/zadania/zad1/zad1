@@ -1,9 +1,0 @@
-# Napisz funkcje, ktora przyjmuje napis w formacie:
-"'k1: w2
-k2: w2
-k3: w3"'
-
-i zwraca słownik w postaci:
-'k1': 'w1', 'k2': 'w2', 'k3': 'w3'
-
-https://drive.google.com/drive/folders/1R3o1bZxyQLFlw6jkU3oKlBLfE4JozKr_
