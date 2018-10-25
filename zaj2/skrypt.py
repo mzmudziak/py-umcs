@@ -19,5 +19,10 @@ print "iterating over keys.."
 for x in dictionary.keys():
     print x
 
+lista = ['a', 'b', 'c', 'd', 'e']
 
+napis = ''
 
+for x in lista:
+    napis += x
+    print napis
