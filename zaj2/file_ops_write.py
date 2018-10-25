@@ -1,0 +1,11 @@
+f = open('file_wr', 'w')
+f.write('line1')
+f.write('line2')
+f.write('line3')
+f.write('line4')
+f.write('line5')
+f.close()
+
+f = open('file_wr')
+print f.read()
+f.close()
