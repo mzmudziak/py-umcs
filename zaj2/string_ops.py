@@ -1,5 +1,5 @@
 lista = ['a', 'b', 'c', 'd', 'e']
 
-znak = ''
+znak = '.'
 
 print znak.join(lista)
