@@ -2,5 +2,7 @@ f = open('file')
 
 print(f.read())
 
-f.close()
+for line in f:
+    print line
 
+f.close()
