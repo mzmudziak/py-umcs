@@ -1,0 +1,3 @@
+
+    Zaimplementuj klasę LiczbaZespolona
+    , klasa ma miec mozliwosc dodawania, odejmowania, mnozenia, dzielenia oraz przepisywania z wykorzystaniem standardowych operatorow. dodatkowo ma posiada c funckcje modul obliiczajaca modul liczby zespolonej oraz mozliwosc porownywania go rowniez przy pomocy standardowych operatorow logicznych. po przekazaniu obiektu do funkcji print ma ona zosrtac wyswietlona na ekranie
